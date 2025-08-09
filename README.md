@@ -8,7 +8,7 @@ Matricula: 899228
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
-![Inspeção](imagens/Portal.png)
+![Inspeção](imagens/p.png)
 
 ## Tela de projeto no Replit
 
